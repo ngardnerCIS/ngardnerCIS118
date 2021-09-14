@@ -7,3 +7,6 @@ ul#nav { background-color: #dddddd; }
 a, a:link, a:active { color: #008b14; }
 a:visited { color: #649a00; }
 a:hover, a:focus { color: #00638b; }
+
+table, tr, th, td{border:1px solid black;}
+th, td{ padding: 4px;}
