@@ -1,0 +1,9 @@
+body { background-color: #cccccc; font-family: Helvetica, Arial, san-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: Georgia, serif; }
+p, li { line-height: 1.25 em; }
+p>em { font-weight: bold; }
+ul#nav { background-color: #dddddd; }
+
+a, a:link, a:active { color: #008b14; }
+a:visited { color: #649a00; }
+a:hover, a:focus { color: #00638b; }
